@@ -1,2 +1,2 @@
-# belajar-kolaborasi
-Belajar kolaborasi di Dicoding
+# Belajar Kolaborasi
+Hari ini kita belajar kolaborasi di Dicoding
